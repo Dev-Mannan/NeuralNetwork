@@ -5,3 +5,5 @@ loss & data algorithm completed
 also gradient completed today
 1 epoch done on dataset
 logistic regression binary classification don
+
+now computer vision will start
