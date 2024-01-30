@@ -9,5 +9,5 @@ logistic regression binary classification don
 now computer vision will start
 
 completed CNN
-
+completed ANN
 
