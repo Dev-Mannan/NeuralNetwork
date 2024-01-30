@@ -7,3 +7,7 @@ also gradient completed today
 logistic regression binary classification don
 
 now computer vision will start
+
+completed CNN
+
+
