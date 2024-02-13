@@ -11,3 +11,4 @@ now computer vision will start
 completed CNN
 completed ANN
 completed ipynb crash
+zzzzzzzzzzzzzzzz
