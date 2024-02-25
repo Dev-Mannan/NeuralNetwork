@@ -8,12 +8,4 @@ logistic regression binary classification don
 
 now computer vision will start
 
-completed CNN
-completed ANN
-completed ipynb crash
-zzzzzzzzzzzzzzzz
-zzzzzzzzzzzzzzz
-zzzzzzzzzzzzzzz
-zzzzzzzzzzzzzzz
-zzzzzzzzzzzzzzz
-z
+Project 1
