@@ -9,3 +9,4 @@ logistic regression binary classification don
 now computer vision will start
 
 Project 1
+Project2
